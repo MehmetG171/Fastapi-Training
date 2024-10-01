@@ -1,4 +1,4 @@
-# jenkins-fastapi-compose-deployments
+# Jenkins-Fastapi-Compose-Deployments
 
 ## Prerequisite: an Ubuntu VM w/ SSH access
 
